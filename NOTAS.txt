@@ -1,0 +1,1 @@
+-implementar opción para descargar el CV en PDF o en imagen
